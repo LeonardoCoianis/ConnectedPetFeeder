@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\bin\Debug\netcoreapp2.0\AppMobile.deps.json
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\bin\Debug\netcoreapp2.0\AppMobile.runtimeconfig.json
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\bin\Debug\netcoreapp2.0\AppMobile.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\bin\Debug\netcoreapp2.0\AppMobile.dll
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.AssemblyInfo.cs
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\bin\Debug\netcoreapp2.0\AppMobile.pdb
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.dll
+C:\Users\PC\Desktop\ConnectedPetFeeder\AppMobile\obj\Debug\netcoreapp2.0\AppMobile.pdb

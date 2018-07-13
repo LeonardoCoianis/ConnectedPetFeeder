@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualConnectedCiotola", "ManualConnectedCiotola\ManualConnectedCiotola.csproj", "{BB59DE3E-E47B-4B7D-BCB5-3EFDF291E814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMobile", "AppMobile\AppMobile.csproj", "{5CE1F8FF-E56D-470C-BCFD-4E2064C90745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB59DE3E-E47B-4B7D-BCB5-3EFDF291E814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB59DE3E-E47B-4B7D-BCB5-3EFDF291E814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB59DE3E-E47B-4B7D-BCB5-3EFDF291E814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB59DE3E-E47B-4B7D-BCB5-3EFDF291E814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE1F8FF-E56D-470C-BCFD-4E2064C90745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE1F8FF-E56D-470C-BCFD-4E2064C90745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE1F8FF-E56D-470C-BCFD-4E2064C90745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE1F8FF-E56D-470C-BCFD-4E2064C90745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88367E69-943C-4EB0-9DF2-EB3ABB36B1D1}
+	EndGlobalSection
+EndGlobal

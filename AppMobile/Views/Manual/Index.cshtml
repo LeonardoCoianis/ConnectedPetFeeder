@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <div><a href="#" id="feed" class="btn btn-primary">Feed</a></div>
+    <div><a href="#" id="getFoto" class="btn btn-primary">Get photo</a></div>
+    <div><a href="#" id="showFoto" class="btn btn-primary">show last photo</a></div>
+    <div id="#foto"></div>
+
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        $(function () {
+
+            $("#feed").click(function () {
+                var url = '@Url.Action("Feed")';
+
+                $.ajax({
+                    url: url,
+                    type: 'post'
+
+                });
+
+            });
+
+            $("#getFoto").click(function () {
+                var url = '@Url.Action("Foto")';
+                $.ajax({
+                    url: url,
+                    type: 'post'
+                });
+
+            });
+
+            $("#showFoto").click(function () {
+                var url = '@Url.Action("GetUrlFoto")';
+                $.getJSON(url, function (response) {
+                    $("#foto").empty();
+                    $(response).each((i, item) => {
+
+                        $("#foto").append("<img src='" + item.value +"'/>");
+
+                    })
+
+                })
+
+            })
+
+
+
+        });
+    </script>
+}
